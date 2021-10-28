@@ -22,8 +22,8 @@
 </blockquote>
 
 <p align="center">
-  Programo a 2 anos tenho 11 anos tenho um canal no Yotube chamado Zorro.
-  <a style="font-family: sans-serif" href="https://youtube.com/channel/UCTRSuQ_j0qwRKxI9mMioeyg">Meu Canal Aqui.</a>
+  tenho um canal no Youtube chamado Zorro.
+  <a style="font-family: sans-serif" href="https://youtube.com/channel/UCTRSuQ_j0qwRKxI9mMioeyg">Aqui.</a>
 </p>
 <hr>
 <p>
