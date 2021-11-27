@@ -5,8 +5,6 @@
 
 <h1>[🍀]Olá</h1>
 
-- [🎶] Musica Favorita: El Problema
-- [❤] Kayla
 <h3><em>[🌐]Languages:</em></h3>
 <blockquote>
   <ul>
@@ -21,10 +19,6 @@
   </ul>
 </blockquote>
 
-<p align="center">
-  tenho um canal no Youtube chamado Zorro.
-  <a style="font-family: sans-serif" href="https://youtube.com/channel/UCTRSuQ_j0qwRKxI9mMioeyg">Aqui.</a>
-</p>
 <div align="center">
   <a href="https://github.com/Zoro-Zoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoro-Zoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
