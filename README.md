@@ -5,7 +5,9 @@
 
 <h1>[🍀]Olá</h1>
 <h4>Hacker Black-Hat</h4>
-
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" /><br>
+</div>
 
 <h3><em>[🌐]Languages:</em></h3>
 <blockquote>
