@@ -7,6 +7,8 @@
 <div>
    <img src="https://img.shields.io/github/forks/Zoro-Zoro/Zpainel.svg" />
    <img src="https://img.shields.io/github/followers/Zoro-Zoro.svg?style=social&label=Follow&maxAge=2592000" />
+   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
+   <img src="https://img.shields.io/github/watchers/Zoro-Zoro/Zpainel.svg" />
 </div>
 
 
