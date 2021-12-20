@@ -4,7 +4,9 @@
 </p>
 
 <h3><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif' width="10%" />Hi Programmers...</h3>
+<br><br>
 
+<h3>GitHub Analytics 🔍</h3>
 
 <div>
    <a href="https://github.com/Zoro-Zoro">
