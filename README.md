@@ -10,6 +10,7 @@
 
 
 <h3><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif' width="10%" />Hi Programmers...</h3>
+<img src="9c124ddd60e5bdd3038e1e99d6701525.gif" />
 <blockquote>
     <p>I'm usually studying Ruby and Go.</p>
 </blockquote>
