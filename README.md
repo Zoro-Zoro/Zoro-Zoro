@@ -10,10 +10,13 @@
 
 
 <h3><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif' width="10%" />Hi Programmers...</h3>
-<img src="9c124ddd60e5bdd3038e1e99d6701525.gif" />
 <blockquote>
     <p>I'm usually studying Ruby and Go.</p>
 </blockquote>
+<div align="center">
+    <img src="9c124ddd60e5bdd3038e1e99d6701525.gif" />
+</div>
+
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
